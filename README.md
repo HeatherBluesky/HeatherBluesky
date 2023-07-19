@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Heather 👋</h1>
-<h3 align="center">Im a Junior Software Developer in Scotland</h3>
+<h1 align="center">👋 Hi, I'm Heather 👋</h1>
+<h3 align="center">I'm a Junior Software Developer in Scotland</h3>
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 - 🔭 I’m currently working on [Reelax, a movie companion](https://github.com/Corrine2212/Capstone_Project_Reelax)
