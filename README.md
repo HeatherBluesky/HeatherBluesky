@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Reelax, a movie companion](https://github.com/Corrine2212/Capstone_Project_Reelax)
 
-- 🌱 I’m currently learning **C# and TypeScript**
+- 🌱 I’m currently learning TypeScript**
 
 - 📫 How to reach me **heatherbluesky@outlook.com**
 
